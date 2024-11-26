@@ -1,1 +1,1 @@
-# .github
+# Crypto Payment Gateway built on Kraken Exchange
